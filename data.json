@@ -1,0 +1,101 @@
+ [
+  {
+    "name": "Apple",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyEWInkLjBMrX-4ehYMqS8OXO5ihvrBa-JoA&usqp=CAU",
+    "calories": 52,
+    "protein": 0.3,
+    "carbohydrates": 14,
+    "fat": 0.2,
+    "fiber": 2.4
+  },
+  {
+    "name": "Banana",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLdM0qlrbosdfqf_MlDn4HPGjYWycjUeOg7w&usqp=CAU",
+    "calories": 89,
+    "protein": 1.1,
+    "carbohydrates": 23,
+    "fat": 0.3,
+    "fiber": 2.6
+  },
+  {
+    "name": "Broccoli",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYbts8BeEMoZtDtf1soguPaVJuAkDe9R9vmA&usqp=CAU",
+    "calories": 34,
+    "protein": 2.8,
+    "carbohydrates": 6.6,
+    "fat": 0.4,
+    "fiber": 2.6
+  },
+  {
+    "name": "Spinach",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHmRotJYLgk3pqCPrvBs9vr5dUvsBzvSPGPw&usqp=CAU",
+    "calories": 23,
+    "protein": 2.9,
+    "carbohydrates": 3.6,
+    "fat": 0.4,
+    "fiber": 2.2
+  },
+  {
+    "name": "Chicken Breast",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREruxiMLrjje-3KLCILh3sVN-kxrZDpC-gSg&usqp=CAU",
+    "calories": 165,
+    "protein": 31,
+    "carbohydrates": 0,
+    "fat": 3.6,
+    "fiber": 0
+  },
+  {
+    "name": "Quinoa",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrp7x7y7biUnsy4fdAq-Le6ytwSXi_h1yW1w&usqp=CAU",
+    "calories": 120,
+    "protein": 4.4,
+    "carbohydrates": 21,
+    "fat": 1.9,
+    "fiber": 2.8
+  },
+  {
+    "name": "Avocado",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW_CJHwj32DQvd-3z7M9WuhylUtMjmsSS-bA&usqp=CAU",
+    "calories": 160,
+    "protein": 2,
+    "carbohydrates": 9,
+    "fat": 15,
+    "fiber": 7
+  },
+  {
+    "name": "Greek Yogurt",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQPfbWZptyaMvlrP4KP4mgR5sjrd7aT6fhpg&usqp=CAU",
+    "calories": 59,
+    "protein": 10,
+    "carbohydrates": 3.6,
+    "fat": 0,
+    "fiber": 0
+  },
+  {
+    "name": "Almonds",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgVNa9WEBN9VOiedpo1uFSTifOfLQDBSmzvw&usqp=CAU",
+    "calories": 7,
+    "protein": 0.3,
+    "carbohydrates": 0.2,
+    "fat": 0.6,
+    "fiber": 0.4
+  },
+  {
+    "name": "Cucumber",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPWlCrGoeg-Uye6c9aihZzwsIpX3H66eu5Dw&usqp=CAU",
+    "calories": 15,
+    "protein": 0.6,
+    "carbohydrates": 3.6,
+    "fat": 0.1,
+    "fiber": 0.5
+  },
+  {
+    "name": "Eggs",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlja0actZwWlxFd9G3038rpS8zTDHv_UsgGQ&usqp=CAU",
+    "calories": 155,
+    "protein": 12,
+    "carbohydrates": 1.1,
+    "fat": 11,
+    "fiber": 0
+  }
+]
