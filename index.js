@@ -184,8 +184,8 @@ app.get("/track/:userid/:date",async (req,res)=>{
 
     let userid = req.params.userid;
     let date = new Date(req.params.date);
-    let strDate = date.getDate()+"/"+(date.getMonth()+1)+"/"+date.getFullYear();
-
+    let strDate = (date.getMonth()+1)+"/"+(date.getDate()-1)+"/"+date.getFullYear();
+    //in db date is stored 1 day behing : if frontend send 20 it save record as 19
     try
     {
 
